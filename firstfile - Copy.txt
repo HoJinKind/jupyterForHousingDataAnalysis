@@ -1,2 +1,2 @@
-first second
-this is diff from other file(test2   )
+first second 
+this is different from the other. 
