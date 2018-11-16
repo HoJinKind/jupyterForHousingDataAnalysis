@@ -1,1 +1,2 @@
-first second
+first second 
+this is different from the other. (first file)
