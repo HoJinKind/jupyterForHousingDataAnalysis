@@ -19,4 +19,4 @@ They consist of:
 
 
 ## File
-check out propertyPriceAnalysis.html file for the ful report. thank you
+check out propertyPriceAnalysis.html file for the full report. thank you
