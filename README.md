@@ -19,4 +19,5 @@ They consist of:
 
 
 ## File
-check out propertyPriceAnalysis.html file for the full report. thank you
+check out propertyPriceAnalysis.html file for the link of data:[full report](https://hojinkind.github.io/jupyterForHousingDataAnalysis/PropertyPriceAnalysis.html)
+. thank you
