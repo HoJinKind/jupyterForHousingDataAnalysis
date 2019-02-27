@@ -20,4 +20,6 @@ They consist of:
 
 ## File
 check out propertyPriceAnalysis.html file for the link of data:[full report](https://hojinkind.github.io/jupyterForHousingDataAnalysis/PropertyPriceAnalysis.html)
+and
+link of data:[full report](https://hojinkind.github.io/jupyterForHousingDataAnalysis/hdbdepreciation.html)
 . thank you
